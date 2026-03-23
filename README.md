@@ -85,7 +85,7 @@ Użytkownik klika pole docelowe
 **Kroki:**
 
 ```bash
-git clone https://github.com/twoj-username/chess.git
+git clone https://github.com/kiersna/chess.git
 cd chess
 ```
 
