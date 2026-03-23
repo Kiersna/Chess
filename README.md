@@ -1,7 +1,7 @@
 # ♟️ Chess
 
 Desktopowa aplikacja szachowa napisana w **C# / WPF (.NET)**, z pełną logiką gry i graficznym interfejsem użytkownika.
-
+PO SKLONOWANIU NALEZY ZMIENIC PROJEKT STARTOWY NA CHESS UI 
 ---
 
 ## 📋 Spis treści
